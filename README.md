@@ -8,7 +8,6 @@ Kanban task application that I created using React.js
 * An application created for task tracking.
 * Tasks can be added with cards under the Backlog, To Do, In Progress and Done columns.
 * Lean task model: you can see title, description, date tag headers.
-* Tasks are stored on your browser cache.
 
 # Application pictures
 
